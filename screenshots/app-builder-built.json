@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Cờ Caro",
+      "hasCanvas": false,
+      "bodyTextLen": 459,
+      "bodyTextHash": "71c27e36010461eb3f69ee460d119713ce98780171aa668fdbfc0d9d49f4120d",
+      "bodyTextPrefix": "BOT ÁP LỰC Cờ Caro Nước 0 Tới lượt bạn Cách bot nghĩ X đi trước.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Cờ Caro",
+      "hasCanvas": false,
+      "bodyTextLen": 459,
+      "bodyTextHash": "71c27e36010461eb3f69ee460d119713ce98780171aa668fdbfc0d9d49f4120d",
+      "bodyTextPrefix": "BOT ÁP LỰC Cờ Caro Nước 0 Tới lượt bạn Cách bot nghĩ X đi trước.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
